@@ -1,0 +1,8 @@
+{
+  "name": "Web Reader",
+  "description": "A versatile web and comic reader app allowing you to paste any website link, read with distraction-free mode, track scroll progress, save bookmarks, and save web pages or download chapters for offline reading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
